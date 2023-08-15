@@ -27,7 +27,7 @@ INSTALLATION
     - npm install @clickpaycom/clickpay-nodejs@2.0.8
     
 * Github Repo Link:
-    - https://github.com/clickpaycom/clickpay-nodejs-package
+    - https://github.com/clickpaysa/clickpay-nodejs-package
 
 
 EXAMPLES
