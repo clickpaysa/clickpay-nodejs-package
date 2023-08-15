@@ -1,0 +1,23 @@
+{
+  "name": "clickpay_pt2",
+  "description": "clickpay payment integration with nodejs V10.X",
+  "version": "2.0.8",
+  "_location": "/clickpay",
+  "author": {
+    "name": "Walaa Elsaeed",
+    "email": "techsupport@clickpay.com.sa"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clickpaysa/clickpay-nodejs-package.git",
+    "baseUrl": "https://github.com/clickpaysa/clickpay-nodejs-package"
+  },
+  "homepage": "https://clickpay.com.sa/wps/portal/clickpaynew",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "qs": "^6.7.0"
+  },
+  "main": "main.js",
+  "deprecated": false
+}
